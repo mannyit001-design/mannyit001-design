@@ -21,26 +21,28 @@
 
 ---
 ---
-
 # 👨‍💻 About Me
 
-Cloud Operations and DevSecOps engineer focused on automating infrastructure, strengthening cloud security, and improving system reliability. I am a **B.S. Information Technology graduate** with hands-on experience in AWS cloud services, infrastructure automation, cybersecurity, networking, and system configuration management. I design secure and scalable environments using **Infrastructure as Code (IaC), automation, and security-focused engineering practices.**
+Cloud Operations and DevSecOps engineer focused on **automating infrastructure, securing cloud environments, and improving system reliability**.
+
+My background combines **AWS cloud services, Infrastructure as Code (IaC), cybersecurity, networking, Linux administration, and system configuration management** to design and build secure, scalable technology environments.
+
+I specialize in:
 
 ☁️ AWS Cloud Services  
-🏗 Infrastructure as Code  
+🏗️ Infrastructure as Code (Terraform)  
 ⚙️ Automation & Configuration Management  
-🔐 Cloud Security Practices  
+🔐 Cloud Security & Identity Management  
 🐧 Linux Administration  
-🚀 DevSecOps Workflows  
+🚀 DevSecOps & CI/CD Workflows
 
-I build projects that demonstrate real-world engineering practices:
+My projects demonstrate real-world engineering practices through:
 
 - Automated cloud deployments
 - Secure network architectures
 - Infrastructure automation
 - Security monitoring
 - CI/CD security integration
-
 ---
 
 ## 🛠️ Technical Ecosystem & Skills
@@ -116,16 +118,11 @@ Repository:
 
 ---
 
-# 📚 Currently Building
+# 🎓 Education
 
-```text
-☁️ AWS Cloud Infrastructure
-🏗 Terraform Automation
-🔐 Cloud Security Engineering
-⚙️ DevSecOps Pipelines
-🐧 Linux Automation
-📊 Cloud Monitoring Solutions
-```
+**Arizona State University**  
+Bachelor of Science in Information Technology  
+Cybersecurity Focus
 
 ---
 
