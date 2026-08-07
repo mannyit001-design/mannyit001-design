@@ -4,7 +4,7 @@
 
 <br>
 
-# ☁️ Cloud Operations & DevSecOps Engineer
+# ☁️ Aspiring Junior Cloud & Security Engineer
 
 ### AWS • Infrastructure as Code • Cloud Security • Automation
 
@@ -23,7 +23,10 @@
 ---
 # 👨‍💻 About Me
 
-Cloud Operations and DevSecOps engineer focused on **automating infrastructure, securing cloud environments, and improving system reliability**.
+IT graduate (B.S., Cybersecurity focus) building hands-on projects in cloud infrastructure, systems administration, and security as I work toward a role in cloud operations, systems administration, or security engineering.
+
+Based in Orlando, FL — open to remote.
+Currently studying for the AWS Certified CloudOps Engineer – Associate certification.
 
 My background combines **AWS cloud services, Infrastructure as Code (IaC), cybersecurity, networking, Linux administration, and system configuration management** to design and build secure, scalable technology environments.
 
@@ -36,66 +39,29 @@ I specialize in:
 🐧 Linux Administration  
 🚀 DevSecOps & CI/CD Workflows
 
-My projects demonstrate real-world engineering practices through:
-
-- Automated cloud deployments
-- Secure network architectures
-- Infrastructure automation
-- Security monitoring
-- CI/CD security integration
+My projects are built from real coursework and a deployed capstone project — not tutorials — and each one documents the actual reasoning behind design decisions, including tradeoffs and bugs found along the way.
 ---
 
-## 🛠️ Technical Ecosystem & Skills
-
-| Category | Technologies & Frameworks |
-| :--- | :--- |
-| **Cloud Platforms** | AWS (VPC, EC2, S3, IAM, CloudWatch, CloudTrail, Route 53) |
-| **Infrastructure as Code** | Terraform, CloudFormation |
-| **Configuration Management** | Ansible, PowerShell |
-| **Automation & Scripting** | Python, Bash/Shell Scripting, Linux Utilities |
-| **DevSecOps / CI-CD** | GitHub Actions, Docker, Trivy, Security Scanning |
-| **Networking & Systems** | TCP/IP, Routing, Active Directory, Windows Server, Linux Administration |
-
+🛠️ Technical Ecosystem & Skills
+Category	Technologies & Frameworks
+Cloud Platforms	AWS (EC2, S3, VPC, IAM, RDS, CloudWatch, CloudTrail, CloudFormation)
+Automation & Scripting	Bash, Awk, Python
+Systems Administration	Linux Administration, Windows Server, Active Directory
+Security	Vulnerability scanning (Nessus), Nmap, hardening, security fundamentals coursework
 ---
 
-# 📂 Featured Engineering Projects
+📂 Featured Projects
+⚙️ Systems Automation Toolkit
 
-## 🚀 Automated Multi-Tier Cloud Architecture
+Bash | Awk | Log Parsing | Report Generation
 
-**AWS | Terraform | Infrastructure as Code**
+What it is: A growing collection of Bash and Awk tools for parsing structured data and log files, built from coursework and extended into general-purpose sysadmin utilities.
 
-**The Blueprint:**  
-An enterprise-style AWS infrastructure project using Terraform to automate cloud resource deployment.
+Includes:
 
-**Security & Operations:**
+✅ Gradebook / metrics analyzer — per-category stats and per-student grading from CSV data ✅ Firewall log analyzer — security-relevant triage metrics from firewall log data ✅ A real bug found and fixed along the way, documented in the repo's README
 
-✅ Designed VPC networking architecture  
-✅ Configured public and private subnet segmentation  
-✅ Implemented IAM least-privilege access controls  
-✅ Automated infrastructure provisioning  
-✅ Applied cloud security best practices  
-
-Repository:
-`automated-multi-tier-cloud-architecture`
-
----
-
-## 🛡️ Secure CI/CD Deployment Pipeline
-
-**GitHub Actions | Docker | AWS | DevSecOps**
-
-**The Blueprint:**  
-An automated CI/CD workflow that integrates security testing into the software delivery lifecycle.
-
-**Security & Operations:**
-
-✅ Automated application builds  
-✅ Integrated vulnerability scanning  
-✅ Validated infrastructure configurations  
-✅ Created secure deployment workflows  
-
-Repository:
-`secure-cloud-cicd-pipeline`
+Repository: systems-automation-toolkit
 
 ---
 
@@ -118,6 +84,12 @@ Repository:
 
 ---
 
+🚧 More projects in progress
+
+Covering AWS cloud infrastructure (built from a deployed capstone project) and enterprise Windows/Active Directory administration. Check back soon.
+
+---
+
 # 🎓 Education
 
 **Arizona State University**  
@@ -135,6 +107,7 @@ Interested in opportunities involving:
 🔐 Cloud Security  
 🛡 DevSecOps  
 🏗 Infrastructure Automation  
+🛠️ Technical Support Engineer
 
 
 ---
