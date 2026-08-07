@@ -39,7 +39,10 @@ I specialize in:
 🐧 Linux Administration  
 🚀 DevSecOps & CI/CD Workflows
 
+---
+
 My projects are built from real coursework and a deployed capstone project — not tutorials — and each one documents the actual reasoning behind design decisions, including tradeoffs and bugs found along the way.
+
 ---
 
 🛠️ Technical Ecosystem & Skills
