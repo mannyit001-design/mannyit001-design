@@ -4,118 +4,150 @@
 
 <br>
 
-# ☁️ Aspiring Junior Cloud & Security Engineer
+# ☁️ Junior Cloud & Security Engineer | Actively Job Seeking
 
-### AWS • Infrastructure as Code • Cloud Security • Automation
+### AWS • Cloud Operations • Automation • Security
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=CloudOps+Engineer;AWS+Cloud+Security+Engineer;DevSecOps+Automation;Infrastructure+as+Code+Builder;Linux+%26+Automation+Engineer&center=true&width=600&height=50&color=06b6d4">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Cloud+Operations+Projects;AWS+CloudOps+Engineer+Associate+%7C+In+Progress;Cloud+Infrastructure+%26+Automation;Security+%26+Systems+Engineering;Recent+ASU+IT+Graduate&center=true&width=650&height=50&color=06b6d4">
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=mannyit001-design&label=Profile%20Views&color=0e75b6&style=for-the-badge">
 
-
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,python,bash,ansible,github"/>
+<img src="https://skillicons.dev/icons?i=aws,linux,python,bash,git,github"/>
 
 </div>
 
 ---
----
+
 # 👨‍💻 About Me
 
-IT graduate (B.S., Cybersecurity focus) building hands-on projects in cloud infrastructure, systems administration, and security as I work toward a role in cloud operations, systems administration, or security engineering.
+I'm an **Information Technology graduate from Arizona State University** with a
+cybersecurity focus, building hands-on experience across **AWS cloud infrastructure,
+automation, systems administration, and security**.
 
-Based in Orlando, FL — open to remote.
-Currently studying for the AWS Certified CloudOps Engineer – Associate certification.
+My goal is to build and operate reliable cloud environments while applying security
+and automation throughout the infrastructure lifecycle.
 
-My background combines **AWS cloud services, Infrastructure as Code (IaC), cybersecurity, networking, Linux administration, and system configuration management** to design and build secure, scalable technology environments.
+📍 **Orlando, Florida — open to remote**
 
-I specialize in:
 
-☁️ AWS Cloud Services  
-🏗️ Infrastructure as Code (Terraform)  
-⚙️ Automation & Configuration Management  
-🔐 Cloud Security & Identity Management  
-🐧 Linux Administration  
-🚀 DevSecOps & CI/CD Workflows
+☁️ **Cloud Operations / Cloud Security focused**
 
----
+🎓 **B.S. Information Technology — Arizona State University**
 
-My projects are built from real coursework and a deployed capstone project — not tutorials — and each one documents the actual reasoning behind design decisions, including tradeoffs and bugs found along the way.
+📚 **AWS Certified CloudOps Engineer – Associate — In Progress**
 
----
 
-🛠️ Technical Ecosystem & Skills
+I focus on projects that demonstrate **how systems actually work**, not just how to
+follow a tutorial. My repositories document real coursework and a deployed capstone
+project, including:
 
-Category	Technologies & Frameworks
-
-Cloud Platforms	AWS (EC2, S3, VPC, IAM, RDS, CloudWatch, CloudTrail, CloudFormation)
-Automation & Scripting	Bash, Awk, Python
-Systems Administration	Linux Administration, Windows Server, Active Directory
-Security	Vulnerability scanning (Nessus), Nmap, hardening, security fundamentals coursework
-
+* Architecture and design decisions
+* Infrastructure configuration
+* Automation
+* Security considerations
+* Troubleshooting and bugs found along the way
+* Real-world tradeoffs
 
 ---
 
-📂 Featured Projects
-⚙️ Systems Automation Toolkit
+# 🛠️ Technical Ecosystem
 
-Bash | Awk | Log Parsing | Report Generation
-
-What it is: A growing collection of Bash and Awk tools for parsing structured data and log files, built from coursework and extended into general-purpose sysadmin utilities.
-
-Includes:
-
-✅ Gradebook / metrics analyzer — per-category stats and per-student grading from CSV data ✅ Firewall log analyzer — security-relevant triage metrics from firewall log data ✅ A real bug found and fixed along the way, documented in the repo's README
-
-Repository: systems-automation-toolkit
+| Category | Technologies |
+| --- | --- |
+| ☁️ **Cloud** | AWS: EC2, S3, VPC, IAM, RDS, CloudWatch, CloudTrail, CloudFormation |
+| 🐧 **Linux** | Linux Administration, Bash, Awk, Shell Scripting |
+| 🪟 **Windows** | Windows Server, Active Directory, Group Policy |
+| 🤖 **Automation** | Python, Bash |
+| 🔐 **Security** | Nmap, Nessus, vulnerability assessment, system hardening, IAM, security fundamentals |
+| 🔧 **Tools** | Git, GitHub, AWS CLI |
 
 ---
 
-## 💻 Linux Automation & Server Utilities
+# 🚀 Featured Projects
 
-**Linux | Bash | Python | System Automation**
+## ⚙️ Systems Automation Toolkit
 
-**The Blueprint:**  
-A collection of automation scripts designed to improve Linux server reliability and simplify administrative tasks.
+**Bash | Awk | Linux | Log Analysis | Automation**
 
-**Security & Operations:**
+A collection of shell-based utilities originally developed through coursework and
+extended into practical systems administration and security tools.
 
-✅ Server health monitoring  
-✅ Disk utilization monitoring  
-✅ Automated log management  
-✅ System maintenance automation  
+### Includes
 
-Repository:
-`linux-server-automation-toolkit`
+* 📊 Gradebook and metrics analyzer
+* 🔥 Firewall log analyzer
+* 📄 Structured data parsing
+* 📈 Automated report generation
+* 🐛 A real bug found and fixed, documented in the repo's README
+
+🔗 **Repository:** [systems-automation-toolkit](https://github.com/mannyit001-design/systems-automation-toolkit)
 
 ---
 
-🚧 More projects in progress
+## 🚧 More Projects In Progress
 
-Covering AWS cloud infrastructure (built from a deployed capstone project) and enterprise Windows/Active Directory administration. Check back soon.
+Covering AWS cloud infrastructure (built from a deployed capstone project) and
+enterprise Windows/Active Directory administration. Check back soon.
 
 ---
 
 # 🎓 Education
 
-**Arizona State University**  
-Bachelor of Science in Information Technology  
-Cybersecurity Focus
+### Arizona State University
+
+**Bachelor of Science — Information Technology**
+
+
+---
+
+# 📜 Certifications & Badges
+
+* 🎓 **[AWS Academy Graduate – Cloud Foundations](https://www.credly.com/badges/eb62707b-453b-4b62-9ca7-ac7a9e0df2aa/public_url)** (verified badge)
+* 🎓 **[AWS Academy Graduate – Cloud Operations](https://www.credly.com/badges/895ec1d0-4616-4861-aa1b-98ed1cb698cc/public_url)** (verified badge)
+* 📚 **AWS Certified CloudOps Engineer – Associate** — In Progress
+* 🔐 CompTIA Security+ — Exam scheduled soon
 
 ---
 
 # 🎯 Career Focus
 
-Interested in opportunities involving:
+I'm targeting early-career opportunities where I can contribute to cloud infrastructure,
+automation, and security while continuing to grow as an engineer.
 
-☁️ Cloud Operations  
-⚙️ DevOps Engineering  
-🔐 Cloud Security  
-🛡 DevSecOps  
-🏗 Infrastructure Automation  
-🛠️ Technical Support Engineer
+### Interested in:
 
+☁️ **Cloud Operations / Cloud Engineering**
+🔐 **Cloud Security**
+🛡️ **Cybersecurity / SOC Analyst**
+🛠️ **Technical Support Engineer 
+⚙️ **Infrastructure Automation**
+
+---
+
+# 📈 Currently Building
+
+```text
+AWS Cloud
+   │
+   ├── Cloud Operations
+   │      ├── EC2
+   │      ├── VPC
+   │      ├── IAM
+   │      └── CloudWatch
+   │
+   ├── Automation
+   │      ├── Bash
+   │      ├── Awk
+   │      └── Python
+   │
+   └── Security
+          ├── IAM
+          ├── Hardening
+          ├── Vulnerability Management
+          └── Log / Security Monitoring
+```
 
 ---
 
@@ -135,11 +167,16 @@ Interested in opportunities involving:
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
-<br>
+<a href="https://www.credly.com/users/emmanuel-emile">
+<img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly">
+</a>
 
 <br><br>
 
-**Building secure, automated, and scalable cloud environments through engineering and security.**
+### ☁️ Building cloud infrastructure.
+
+### 🔐 Applying security.
+
+### ⚙️ Automating everything I can.
 
 </div>
-
