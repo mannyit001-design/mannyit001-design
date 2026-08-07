@@ -46,11 +46,15 @@ My projects are built from real coursework and a deployed capstone project — n
 ---
 
 🛠️ Technical Ecosystem & Skills
+
 Category	Technologies & Frameworks
+
 Cloud Platforms	AWS (EC2, S3, VPC, IAM, RDS, CloudWatch, CloudTrail, CloudFormation)
 Automation & Scripting	Bash, Awk, Python
 Systems Administration	Linux Administration, Windows Server, Active Directory
 Security	Vulnerability scanning (Nessus), Nmap, hardening, security fundamentals coursework
+
+
 ---
 
 📂 Featured Projects
