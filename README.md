@@ -31,6 +31,7 @@ and automation throughout the infrastructure lifecycle.
 
 📍 **Orlando, Florida — open to remote**
 ☁️ **Cloud Operations / Cloud Security focused**
+
 🎓 **B.S. Information Technology — Arizona State University**
 📚 **AWS Certified CloudOps Engineer – Associate — In Progress**
 
