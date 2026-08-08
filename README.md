@@ -30,14 +30,9 @@ My goal is to build and operate reliable cloud environments while applying secur
 and automation throughout the infrastructure lifecycle.
 
 📍 **Orlando, Florida — open to remote**
-
-
 ☁️ **Cloud Operations / Cloud Security focused**
-
 🎓 **B.S. Information Technology — Arizona State University**
-
 📚 **AWS Certified CloudOps Engineer – Associate — In Progress**
-
 
 I focus on projects that demonstrate **how systems actually work**, not just how to
 follow a tutorial. My repositories document real coursework and a deployed capstone
@@ -59,7 +54,7 @@ project, including:
 | ☁️ **Cloud** | AWS: EC2, S3, VPC, IAM, RDS, CloudWatch, CloudTrail, CloudFormation |
 | 🐧 **Linux** | Linux Administration, Bash, Awk, Shell Scripting |
 | 🪟 **Windows** | Windows Server, Active Directory, Group Policy |
-| 🤖 **Automation** | Python, Bash |
+| 🤖 **Automation** | Python, Bash, PowerShell |
 | 🔐 **Security** | Nmap, Nessus, vulnerability assessment, system hardening, IAM, security fundamentals |
 | 🔧 **Tools** | Git, GitHub, AWS CLI |
 
@@ -86,10 +81,29 @@ extended into practical systems administration and security tools.
 
 ---
 
+## 🖥️ Enterprise Systems Administration
+
+**Active Directory | Group Policy | PowerShell | Windows Server 2022**
+
+Active Directory design and administration work covering OU structure, naming
+conventions, security groups, domain-wide and department-scoped Group Policy,
+least-privilege administrative delegation, and PowerShell-based AD automation —
+built and verified on a live Windows Server 2022 domain controller.
+
+### Includes
+
+* 🏢 BlueWater Company Case — small-business AD design and naming convention
+* 🔐 Group Policy Implementation — security baseline + least-privilege delegation
+* ⚙️ PowerShell AD Automation — scripted multi-department OU provisioning
+
+🔗 **Repository:** [enterprise-systems-administration](https://github.com/mannyit001-design/enterprise-systems-administration)
+
+---
+
 ## 🚧 More Projects In Progress
 
 Covering AWS cloud infrastructure (built from a deployed capstone project) and
-enterprise Windows/Active Directory administration. Check back soon.
+SCCM endpoint management. Check back soon.
 
 ---
 
@@ -98,7 +112,7 @@ enterprise Windows/Active Directory administration. Check back soon.
 ### Arizona State University
 
 **Bachelor of Science — Information Technology**
-
+**Cybersecurity Focus**
 
 ---
 
@@ -107,7 +121,7 @@ enterprise Windows/Active Directory administration. Check back soon.
 * 🎓 **[AWS Academy Graduate – Cloud Foundations](https://www.credly.com/badges/eb62707b-453b-4b62-9ca7-ac7a9e0df2aa/public_url)** (verified badge)
 * 🎓 **[AWS Academy Graduate – Cloud Operations](https://www.credly.com/badges/895ec1d0-4616-4861-aa1b-98ed1cb698cc/public_url)** (verified badge)
 * 📚 **AWS Certified CloudOps Engineer – Associate** — In Progress
-* 🔐 CompTIA Security+ — Exam scheduled soon
+* 🔐 **CompTIA Security+** — Exam scheduled soon
 
 ---
 
@@ -121,7 +135,7 @@ automation, and security while continuing to grow as an engineer.
 ☁️ **Cloud Operations / Cloud Engineering**
 🔐 **Cloud Security**
 🛡️ **Cybersecurity / SOC Analyst**
-🛠️ **Technical Support Engineer 
+🛠️ **Technical Support Engineer (cloud-leaning)**
 ⚙️ **Infrastructure Automation**
 
 ---
