@@ -31,7 +31,6 @@ and automation throughout the infrastructure lifecycle.
 
 📍 **Orlando, Florida — open to remote**
 ☁️ **Cloud Operations / Cloud Security focused**
-
 🎓 **B.S. Information Technology — Arizona State University**
 📚 **AWS Certified CloudOps Engineer – Associate — In Progress**
 
@@ -84,18 +83,24 @@ extended into practical systems administration and security tools.
 
 ## 🖥️ Enterprise Systems Administration
 
-**Active Directory | Group Policy | PowerShell | Windows Server 2022**
+**Active Directory | Group Policy | PowerShell | SCCM | Windows Server 2022**
 
-Active Directory design and administration work covering OU structure, naming
-conventions, security groups, domain-wide and department-scoped Group Policy,
-least-privilege administrative delegation, and PowerShell-based AD automation —
-built and verified on a live Windows Server 2022 domain controller.
+Active Directory design and administration plus SCCM (Microsoft Configuration
+Manager) endpoint management — OU structure, naming conventions, security
+groups, domain-wide and department-scoped Group Policy, least-privilege
+delegation, PowerShell-based AD automation, automated patch management,
+software metering, live device queries, and OS deployment media — built and
+verified on live Windows Server 2022 / SCCM environments.
 
 ### Includes
 
 * 🏢 BlueWater Company Case — small-business AD design and naming convention
 * 🔐 Group Policy Implementation — security baseline + least-privilege delegation
 * ⚙️ PowerShell AD Automation — scripted multi-department OU provisioning
+* 🩹 Patch Management — Automatic Deployment Rules and maintenance windows
+* 📊 Software Metering — application usage tracking
+* 🔎 CMPivot — real-time device queries for security and troubleshooting
+* 💿 OS Deployment — certificate-secured bootable media (team project)
 
 🔗 **Repository:** [enterprise-systems-administration](https://github.com/mannyit001-design/enterprise-systems-administration)
 
@@ -103,8 +108,8 @@ built and verified on a live Windows Server 2022 domain controller.
 
 ## 🚧 More Projects In Progress
 
-Covering AWS cloud infrastructure (built from a deployed capstone project) and
-SCCM endpoint management. Check back soon.
+Covering AWS cloud infrastructure, built from a deployed capstone project.
+Check back soon.
 
 ---
 
