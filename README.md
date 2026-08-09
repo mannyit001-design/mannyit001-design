@@ -213,10 +213,8 @@ AWS Cloud
 
 <br><br>
 
-### ☁️ Building cloud infrastructure.
-
-### 🔐 Applying security.
-
-### ⚙️ Automating everything I can.
-
+### ☁️ Build cloud infrastructure.
+#### 🔐 Apply security.
+#### ⚙️ Automate operations.
+#### 🚀 Keep learning.
 </div>
