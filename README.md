@@ -66,37 +66,19 @@ project, including:
 
 ## 🔐 Vulnerability Assessment & Security Analysis
 
-Nessus | Snort | PCAP Analysis | Digital Forensics | Incident Response
+**Nessus | Snort | PCAP Analysis | Digital Forensics | Incident Response**
 
 Hands-on security engineering portfolio covering vulnerability assessment, network intrusion detection, and digital forensics/incident response.
 
-Includes
-🔎 Nessus Vulnerability Assessment — vulnerability scanning, severity analysis, and CVE/NVD research
-🛡️ Snort IDS — network intrusion detection, configuration, rule validation, and troubleshooting
-🚨 Incident Response & Digital Forensics — simulated data-exfiltration investigation using PCAP and disk evidence
-📋 Evidence correlation and incident documentation
-🔍 Security investigation and risk analysis
-
-🔗 Repository: vulnerability-assessment-security-analysis
-
----
-
-## ⚙️ Systems Automation Toolkit
-
-**Bash | Awk | Linux | Log Analysis | Automation**
-
-A collection of shell-based utilities originally developed through coursework and
-extended into practical systems administration and security tools.
-
 ### Includes
 
-* 📊 Gradebook and metrics analyzer
-* 🔥 Firewall log analyzer
-* 📄 Structured data parsing
-* 📈 Automated report generation
-* 🐛 A real bug found and fixed, documented in the repo's README
+* 🔎 Nessus Vulnerability Assessment — vulnerability scanning, severity analysis, and CVE/NVD research
+* 🛡️ Snort IDS — network intrusion detection, configuration, rule validation, and troubleshooting
+* 🚨 Incident Response & Digital Forensics — simulated data-exfiltration investigation using PCAP and disk evidence
+* 📋 Evidence correlation and incident documentation
+* 🔍 Security investigation and risk analysis
 
-🔗 **Repository:** [systems-automation-toolkit](https://github.com/mannyit001-design/systems-automation-toolkit)
+🔗 **Repository:** [vulnerability-assessment-security-analysis](https://github.com/mannyit001-design/vulnerability-assessment-security-analysis)
 
 ---
 
@@ -122,6 +104,25 @@ verified on live Windows Server 2022 / SCCM environments.
 * 💿 OS Deployment — certificate-secured bootable media (team project)
 
 🔗 **Repository:** [enterprise-systems-administration](https://github.com/mannyit001-design/enterprise-systems-administration)
+
+---
+
+## ⚙️ Systems Automation Toolkit
+
+**Bash | Awk | Linux | Log Analysis | Automation**
+
+A collection of shell-based utilities originally developed through coursework and
+extended into practical systems administration and security tools.
+
+### Includes
+
+* 📊 Gradebook and metrics analyzer
+* 🔥 Firewall log analyzer
+* 📄 Structured data parsing
+* 📈 Automated report generation
+* 🐛 A real bug found and fixed, documented in the repo's README
+
+🔗 **Repository:** [systems-automation-toolkit](https://github.com/mannyit001-design/systems-automation-toolkit)
 
 ---
 
