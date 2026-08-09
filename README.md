@@ -34,6 +34,7 @@ and automation throughout the infrastructure lifecycle.
 ☁️ **Cloud Operations / Cloud Security focused**
 
 🎓 **B.S. Information Technology — Arizona State University**
+
 📚 **AWS Certified CloudOps Engineer – Associate — In Progress**
 
 I focus on projects that demonstrate **how systems actually work**, not just how to
