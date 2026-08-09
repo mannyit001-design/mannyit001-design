@@ -64,6 +64,23 @@ project, including:
 
 # 🚀 Featured Projects
 
+## 🔐 Vulnerability Assessment & Security Analysis
+
+Nessus | Snort | PCAP Analysis | Digital Forensics | Incident Response
+
+Hands-on security engineering portfolio covering vulnerability assessment, network intrusion detection, and digital forensics/incident response.
+
+Includes
+🔎 Nessus Vulnerability Assessment — vulnerability scanning, severity analysis, and CVE/NVD research
+🛡️ Snort IDS — network intrusion detection, configuration, rule validation, and troubleshooting
+🚨 Incident Response & Digital Forensics — simulated data-exfiltration investigation using PCAP and disk evidence
+📋 Evidence correlation and incident documentation
+🔍 Security investigation and risk analysis
+
+🔗 Repository: vulnerability-assessment-security-analysis
+
+---
+
 ## ⚙️ Systems Automation Toolkit
 
 **Bash | Awk | Linux | Log Analysis | Automation**
