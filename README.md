@@ -58,7 +58,7 @@ project, including:
 | 🐧 **Linux** | Linux Administration, Bash, Awk, Shell Scripting |
 | 🪟 **Windows** | Windows Server, Active Directory, Group Policy |
 | 🤖 **Automation** | Python, Bash, PowerShell |
-| 🔐 **Security** | Nmap, Nessus, vulnerability assessment, system hardening, IAM, security fundamentals |
+| 🔐 **Security** | Nmap, Nessus, vulnerability assessment, system hardening, digital forensics, IAM, security fundamentals |
 | 🔧 **Tools** | Git, GitHub, AWS CLI |
 
 ---
@@ -69,15 +69,16 @@ project, including:
 
 **Nessus | Snort | PCAP Analysis | Digital Forensics | Incident Response**
 
-Hands-on security engineering portfolio covering vulnerability assessment, network intrusion detection, and digital forensics/incident response.
+Vulnerability scanning, intrusion detection, and digital forensics work. Scanning a target host and cross-referencing findings against the National Vulnerability Database, installing and debugging a Snort IDS deployment, and investigating a simulated data exfiltration incident using network and disk forensics.
 
 ### Includes
 
-* 🔎 Nessus Vulnerability Assessment — vulnerability scanning, severity analysis, and CVE/NVD research
-* 🛡️ Snort IDS — network intrusion detection, configuration, rule validation, and troubleshooting
-* 🚨 Incident Response & Digital Forensics — simulated data-exfiltration investigation using PCAP and disk evidence
-* 📋 Evidence correlation and incident documentation
-* 🔍 Security investigation and risk analysis
+* 🔍 Vulnerability Scanning with Nessus — CVE analysis and severity triage
+* 🛡️ Network Intrusion Detection with Snort — real configuration debugging
+* 💉 Web Application Security — SQL injection assessment (DVWA)
+* 🔐 Cryptography Tools — hashing, encoding, and encrypted storage
+* 🕵️ Incident Response & Digital Forensics — PCAP + disk analysis, revised incident report
+* 💻 Windows & Linux System Forensics — registry, live-system, and disk-image analysis
 
 🔗 **Repository:** [vulnerability-assessment-security-analysis](https://github.com/mannyit001-design/vulnerability-assessment-security-analysis)
 
@@ -102,7 +103,7 @@ verified on live Windows Server 2022 / SCCM environments.
 * 🩹 Patch Management — Automatic Deployment Rules and maintenance windows
 * 📊 Software Metering — application usage tracking
 * 🔎 CMPivot — real-time device queries for security and troubleshooting
-* 💿 OS Deployment — certificate-secured bootable media (team project)
+* 💿 OS Deployment — certificate-secured bootable media 
 
 🔗 **Repository:** [enterprise-systems-administration](https://github.com/mannyit001-design/enterprise-systems-administration)
 
