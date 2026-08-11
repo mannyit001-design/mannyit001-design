@@ -161,9 +161,13 @@ automation, and security while continuing to grow as an engineer.
 ### Interested in:
 
 ☁️ **Cloud Operations / Cloud Engineering**
+
 🔐 **Cloud Security**
+
 🛡️ **Cybersecurity / SOC Analyst**
+
 🛠️ **Technical Support Engineer (cloud-leaning)**
+
 ⚙️ **Infrastructure Automation**
 
 ---
