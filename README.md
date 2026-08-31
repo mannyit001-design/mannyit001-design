@@ -150,6 +150,7 @@ Check back soon.
 * 🎓 **[AWS Academy Graduate – Cloud Operations](https://www.credly.com/badges/895ec1d0-4616-4861-aa1b-98ed1cb698cc/public_url)** (verified badge)
 * 📚 **AWS Certified CloudOps Engineer – Associate** — In Progress
 * 🔐 **CompTIA Security+** — Exam scheduled soon
+* 🏅 **[SadServers – Beginner](https://img.shields.io/badge/SadServers-Beginner-00838F?style=flat-square&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto)**
 
 ---
 
