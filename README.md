@@ -184,7 +184,7 @@ Security analysis project focused on vulnerability identification, network analy
 - Incident Investigation
 - System Hardening
 
-🔗 [View Repository]([https://github.com/mannyit001-design](https://github.com/mannyit001-design/vulnerability-assessment-security-analysis))
+🔗 [View Repository](https://github.com/mannyit001-design/vulnerability-assessment-security-analysis)
 
 ---
 
@@ -217,7 +217,7 @@ Enterprise-style systems administration environment focused on identity manageme
 - PowerShell Automation
 - Infrastructure Troubleshooting
 
-🔗 [View Repository]([https://github.com/mannyit001-design](https://github.com/mannyit001-design/enterprise-systems-administration))
+🔗 [View Repository](https://github.com/mannyit001-design/enterprise-systems-administration)
 
 ---
 
@@ -245,7 +245,7 @@ Collection of Linux administration and automation work focused on troubleshootin
 - Shell Scripting
 - Operational Efficiency
 
-🔗 [View Repository]([https://github.com/mannyit001-design](https://github.com/mannyit001-design/systems-automation-toolkit))
+🔗 [View Repository](https://github.com/mannyit001-design/systems-automation-toolkit)
 
 ---
 
