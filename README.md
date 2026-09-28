@@ -20,9 +20,6 @@
 
 ---
 
-## IT Graduate | Cloud & Security
-
-**AWS • Terraform • Cybersecurity • Systems Administration • Automation**
 
 Recent **B.S. Information Technology graduate** with hands-on enterprise IT experience and a focus on **cloud infrastructure, DevOps, cybersecurity, and systems administration**.
 
@@ -36,7 +33,7 @@ My background bridges traditional enterprise technologies such as **Active Direc
 - **Education:** B.S. Information Technology — Arizona State University
 - **Focus:** Cloud Infrastructure • DevOps • Cybersecurity • Systems Administration
 
-### 📜 Certifications & Training
+### 📜 Certifications & Milestones
 
 - **AWS Academy Cloud Foundations** — Completed
 - **AWS Academy Cloud Operations** — Completed
