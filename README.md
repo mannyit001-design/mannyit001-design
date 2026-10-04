@@ -38,7 +38,7 @@ My background bridges traditional enterprise technologies such as **Active Direc
 - **AWS Academy Cloud Foundations** — Completed
 - **AWS Academy Cloud Operations** — Completed
 - **AWS Certified CloudOps Engineer – Associate** — In Progress
-- **CompTIA Security+** — In Progress
+- **CompTIA Security+** — Completed
 - **Google Security Risk Management Certificate** — Completed
 - **Deloitte Cyber Job Simulation** — Completed
 
